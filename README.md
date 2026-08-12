@@ -117,7 +117,7 @@ Embedded Firmware Engineer passionate about building reliable, efficient, and ro
 
 UART-based Supervisor MCU firmware architecture for telecommand and telemetry handling.
 
-* UART interrupt-based frame reception
+* CAN interrupt-based frame reception
 * Command validation and packet parsing
 * CRC16 validation
 * Telecommand and telemetry routing
