@@ -46,23 +46,7 @@ Embedded Firmware Engineer passionate about building reliable, efficient, and ro
     />
   </a>
 
-  <a href="https://www.arm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arm/arm-original.svg"
-      alt="ARM"
-      width="45"
-      height="45"
-    />
-  </a>
-
-  <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/freertos/freertos-original.svg"
-      alt="FreeRTOS"
-      width="45"
-      height="45"
-    />
-  </a>
+ 
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
