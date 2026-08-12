@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nijalinga</h1>
-<h3 align="center">I'm web development enthusiast and I love to build responsive web applications</h3>
+<h3 align="center">Embedded Firmware Enthusiast passionate about building reliable, efficient, and responsive embedded systems.</h3>
 <img align="right" alt="coding" width="400" src="https://images.playground.com/afadb48e08c3460e93313badffc554f6.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nijalinga&label=Profile%20views&color=0e75b6&style=flat" alt="nijalinga" /> </p>
