@@ -1,31 +1,74 @@
-
 <h1 align="center">Hi 👋, I'm Nijalinga</h1>
-<h3 align="center">Embedded Firmware Enthusiast passionate about building reliable, efficient, and responsive embedded systems.</h3>
-<img align="right" alt="coding" width="400" src="https://images.playground.com/afadb48e08c3460e93313badffc554f6.jpeg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nijalinga&label=Profile%20views&color=0e75b6&style=flat" alt="nijalinga" /> </p>
+<h3 align="center">Embedded Firmware Engineer passionate about building reliable, efficient, and robust embedded systems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijalinga" alt="nijalinga" /></a> </p>
-
-- 🌱 I’m currently learning **I’m currently learning RTOS, Embedded Linux, ARM architecture, device drivers, and advanced Embedded C.**
-
-- 👨‍💻 All of my projects are available at [https://nijuu.vercel.app/](https://nijuu.vercel.app/)
-
-- 💬 Ask me about **Embedded Firmware**
-
-- 📫 How to reach me **nijalingar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nijalingappa r k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijalingappa r k" height="30" width="40" /></a>
-<a href="https://instagram.com/nijxuuuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nijxuuuu_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://images.playground.com/afadb48e08c3460e93313badffc554f6.jpeg" alt="Embedded Systems" width="400">
 </p>
 
-<h3 align="left">My Skills:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" gap="20"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" gap="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" gap="20"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" gap="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nijalinga&label=Profile%20views&color=0e75b6&style=flat" alt="nijalinga" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nijalinga&show_icons=true&locale=en&layout=compact" alt="nijalinga" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nijalinga&show_icons=true&locale=en" alt="nijalinga" /></p>
+* 🔧 Embedded Firmware Engineer working with **C, Embedded C, ARM-based systems, and FreeRTOS**
+* 🚀 Experienced in developing and validating **embedded firmware and hardware interfaces**
+* 🧠 Currently strengthening my knowledge of **RTOS, Embedded Linux, ARM architecture, device drivers, and advanced Embedded C**
+* 📡 Experienced with communication protocols including **UART, SPI, I2C, and CAN**
+* 🛰️ Currently working on **spacecraft payload and Supervisor MCU firmware**
+* 💬 Ask me about **Embedded Firmware, C, RTOS, ARM, Linux, and communication protocols**
+* 👨‍💻 All of my projects are available at **https://nijuu.vercel.app/**
+* 📫 Reach me at **[nijalingar@gmail.com](mailto:nijalingar@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijalinga&" alt="nijalinga" /></p>
+### 🛠️ Embedded Skills
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+</p>
+
+**Core:** C • Embedded C • ARM Cortex • FreeRTOS • Embedded Linux
+
+**Protocols:** UART • SPI • I2C • CAN
+
+**Tools:** Git • CMake • GCC • GDB • VS Code
+
+### 🚀 Featured Embedded Projects
+
+* **Supervisor MCU Firmware** — UART-based Telecommand & Telemetry interface, CRC validation, packet parsing, command dispatch, and FreeRTOS architecture.
+* **InfraEye** — Raspberry Pi-based thermal monitoring system using MLX90640 thermal sensing and machine learning.
+* **Avionics & Payload Validation** — Experience validating UART, SPI, I2C, USB, GNSS, INS, ADC, and other embedded interfaces.
+
+### 💼 Experience
+
+**Embedded Firmware Intern — GalaxEye Space**
+*March 2026 – Present*
+
+Working on embedded firmware and validation for spacecraft payload systems, including communication interfaces, sensor monitoring, Supervisor MCU functionality, and embedded system integration.
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nijalingappa" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/nijxuuuu_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nijalinga&show_icons=true&locale=en&layout=compact" alt="nijalinga" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nijalinga&show_icons=true&locale=en" alt="nijalinga" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nijalinga" alt="nijalinga" />
+</p>
