@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nijalinga" alt="nijalinga" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **I’m currently learning RTOS, Embedded Linux, ARM architecture, device drivers, and advanced Embedded C.**
 
 - 👨‍💻 All of my projects are available at [https://nijuu.vercel.app/](https://nijuu.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Embedded Firmware**
 
 - 📫 How to reach me **nijalingar@gmail.com**
 
