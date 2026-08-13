@@ -196,10 +196,18 @@ Working on embedded firmware and validation for spacecraft payload systems.
   />
 </p>
 
+
 <p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=nijalinga&show_icons=true&locale=en"
+    alt="nijalinga"
+  />
+</p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nijalinga"
     alt="nijalinga"
   />
 </p>
