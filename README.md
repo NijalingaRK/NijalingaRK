@@ -4,14 +4,7 @@
 Embedded Firmware Engineer passionate about building reliable, efficient, and robust embedded systems.
 </h3>
 
-<p align="center">
-  <img
-    align="right"
-    alt="Embedded Systems"
-    width="400"
-    src="https://images.playground.com/afadb48e08c3460e93313badffc554f6.jpeg"
-  />
-</p>
+
 
 <p align="left">
   <img
